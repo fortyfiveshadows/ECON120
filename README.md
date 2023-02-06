@@ -1,2 +1,2 @@
 # ECON120
-ECON120 at SDCC
+These are notes that I've taken for ECON120: Macroeconomics at SDCCD.
